@@ -1,0 +1,11 @@
+{
+    "id": "Watch_dog_online_players_with_coords_and_dim",
+    "version": "1.0.0",
+    "name": "Watch_dog_online_players_with_coords_and_dim",
+    "author": "LinHouyu",
+    "link": "https://github.com/LinHouYu",
+    "description": "定时获取在线玩家及坐标、所在世界，写入独立日志文件",
+    "dependencies": {
+        "mcdreforged": ">=2.0.0"
+    }
+}
