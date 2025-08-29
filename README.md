@@ -12,6 +12,8 @@
   - 文件体积小，长期保存无压力  
   - 可直接用 Excel 打开，支持筛选、排序、统计  
   - 字段：时间、玩家、维度、X、Y、Z、物品
+  - <img width="1620" height="393" alt="image" src="https://github.com/user-attachments/assets/10fd545f-f901-4d63-9106-b265f3822aba" />
+
 
 ## 使用方法
 1. 将本插件文件夹放入 `plugins/` 目录
